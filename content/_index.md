@@ -1,6 +1,6 @@
 ---
 banner:
-  title: TagHub is the most intuitive way to explore datasets
+  title: TagHub is the most intuitive way to explore large datasets
   button: Book a demo
   button_link: ''
   image: images/banner-app.png
