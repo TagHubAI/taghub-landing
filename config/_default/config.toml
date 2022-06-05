@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://taghub.ml"
+baseURL = "https://taghub.dev"
 title = "TagHubML - Next gen AI solutions for data exploration and labeling"
 theme = "andromeda-light"
 # post pagination
